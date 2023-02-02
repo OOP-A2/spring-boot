@@ -1,4 +1,4 @@
-package com.zein.productservice;
+package com.oop.productservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
