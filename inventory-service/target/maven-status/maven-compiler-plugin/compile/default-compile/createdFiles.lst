@@ -1,0 +1,7 @@
+com\oop\inventoryservice\service\InventoryService.class
+com\oop\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\oop\inventoryservice\InventoryServiceApplication.class
+com\oop\inventoryservice\controller\InventoryController.class
+com\oop\inventoryservice\repository\InventoryRepository.class
+com\oop\inventoryservice\model\Inventory.class
+com\oop\inventoryservice\dto\InventoryResponse.class

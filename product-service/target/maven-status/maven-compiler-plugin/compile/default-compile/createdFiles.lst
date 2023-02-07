@@ -1,0 +1,10 @@
+com\oop\productservice\service\ProductService.class
+com\oop\productservice\controller\ProductController.class
+com\oop\productservice\dto\ProductResponse.class
+com\oop\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\oop\productservice\model\Product.class
+com\oop\productservice\dto\ProductRequest.class
+com\oop\productservice\model\Product$ProductBuilder.class
+com\oop\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\oop\productservice\repository\ProductRepository.class
+com\oop\productservice\ProductServiceApplication.class
